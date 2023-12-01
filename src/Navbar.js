@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "./logo.png";
+import logo1 from "./logo1.png";
 const NavbarContainer = styled.div`
   display: flex;
   align-items: center;
@@ -79,7 +79,7 @@ const Navbar = () => {
     <NavbarContainer>
       <ImageContainer>
         {/* Your image component goes here */}
-        <img src={logo} alt="Logo" width="80px" />
+        <img src={logo1} alt="Logo" width="80px" />
       </ImageContainer>
       <SearchBar placeholder="Search" />
       <NavItemsContainer>

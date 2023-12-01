@@ -70,7 +70,7 @@ const Product = () => {
         <img src={lap1} alt="image" />
       </ImagesContainer>
       <DescriptionContainer>
-        <ProductHeading>Dell Inspiron 5620 Laptop</ProductHeading>
+        <ProductHeading>ElectricRizz 5620 Laptop</ProductHeading>
         <ProductDescription>
           <br />
           Brand : Dell
